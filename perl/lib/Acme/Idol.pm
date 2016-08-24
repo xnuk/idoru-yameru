@@ -39,11 +39,11 @@ Acme::Idol - 간단히 사용할 수 있는 오픈 소스 아이돌(웃음) 구�
 
 =item * C<DEFAULT_NAME>
 
-C<new> 생성자에서 C<name> 속성을 지정하지 않으면 설정되는 기본 값입니다.
+C<new> 생성자에서 C<name> 속성을 지정하지 않으면 설정되는 기본값입니다.
 
 =item * C<DEFAULT_RETIRE_MESSAGE>
 
-C<new> 생성자에서 C<retire_message> 속성을 지정하지 않으면 설정되는 기본 값입니다.
+C<new> 생성자에서 C<retire_message> 속성을 지정하지 않으면 설정되는 기본값입니다.
 
 =cut
 
@@ -145,7 +145,7 @@ sub retire {
 
 =head1 AUTHOR
 
-치즈군★ (@_KAWAll)
+치즈군★ (L<@_KAWAll|http://twitter.com/_KAWAll>)
 
 =head1 LICENSE
 
