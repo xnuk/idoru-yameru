@@ -1,0 +1,4 @@
+dic, idol.dic
+charset, UTF-8
+charset.dic, UTF-8
+charset.output, UTF-8
