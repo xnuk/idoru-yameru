@@ -1,0 +1,19 @@
+{
+  "name": "idol",
+  "version": "1.0.0",
+  "description": "watasi idoru yameru!",
+  "main": "bin/index.js",
+  "scripts": {
+    "build": "tsc",
+    "pretest": "npm run build",
+    "test": "node out/example.js"
+  },
+  "keywords": [
+    "idol"
+  ],
+  "author": "Gyusun Yeom <omniavinco@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^1.8.10"
+  }
+}
