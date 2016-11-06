@@ -47,7 +47,7 @@ int APIENTRY WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpszCmd
 	WndClass.style = CS_HREDRAW | CS_VREDRAW;
 	RegisterClass(&WndClass);
 	
-	hWnd = CreateWindow(lpszClass, TEXT("≥™ æ∆¿Ãµπ ±◊∏∏µ—∑°"), WS_OVERLAPPEDWINDOW, CW_USEDEFAULT, CW_USEDEFAULT, CW_USEDEFAULT, CW_USEDEFAULT, NULL, NULL, hInstance, NULL);
+	hWnd = CreateWindow(lpszClass, TEXT("ÎÇò ÏïÑÏù¥Îèå Í∑∏ÎßåÎëòÎûò"), WS_OVERLAPPEDWINDOW, CW_USEDEFAULT, CW_USEDEFAULT, CW_USEDEFAULT, CW_USEDEFAULT, NULL, NULL, hInstance, NULL);
 	ShowWindow(hWnd, nCmdShow);
 	while (GetMessage(&Message, NULL, NULL, NULL)) {
 		TranslateMessage(&Message);
