@@ -1,0 +1,13 @@
+; MS-DOS DEBUG.EXE
+a
+mov ah,09
+mov dx,10c
+int 21
+mov ax,4c
+int 20
+db "나 아이돌 그만둘래!$"
+
+rcx
+16
+n quit.COM
+w
