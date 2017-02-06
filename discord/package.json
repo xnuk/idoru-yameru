@@ -1,0 +1,31 @@
+{
+	"name": "StopIdol",
+	"version": "1.0.0",
+	"description": "StopIdol",
+	"keywords": [
+		"discord",
+		"bot",
+		"idol"
+	],
+	"engines": {
+		"node": ">=6.0.0"
+	},
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:xnuk/idoru-yameru.git"
+	},
+	"bugs": {
+		"url": "https://github.com/xnuk/idoru-yameru/issues"
+	},
+	"scripts": {
+		"start": "node index.js"
+	},
+	"author": {
+		"name": "Hoto-Cocoa (Lee Sung Jae)"
+	},
+	"license": "Copyright",
+	"dependencies": {
+		"eris": "0.5.2"
+	}
+}
