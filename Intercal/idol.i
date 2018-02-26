@@ -1,0 +1,25 @@
+DO ,1 <- #22
+DO ,1 SUB #1 <- #22
+DO ,1 SUB #2 <- #100
+DO ,1 SUB #3 <- #88
+PLEASE DO ,1 SUB #4 <- #168
+DO ,1 SUB #5 <- #184
+DO ,1 SUB #6 <- #184
+DO ,1 SUB #7 <- #128
+PLEASE DO ,1 SUB #8 <- #98
+DO ,1 SUB #9 <- #48
+DO ,1 SUB #10 <- #114
+DO ,1 SUB #11 <- #108
+PLEASE DO ,1 SUB #12 <- #48
+DO ,1 SUB #13 <- #192
+DO ,1 SUB #14 <- #50
+DO ,1 SUB #15 <- #106
+PLEASE DO ,1 SUB #16 <- #20
+DO ,1 SUB #17 <- #208
+DO ,1 SUB #18 <- #16
+DO ,1 SUB #19 <- #88
+PLEASE DO ,1 SUB #20 <- #160
+DO ,1 SUB #21 <- #42
+DO ,1 SUB #22 <- #52
+PLEASE READ OUT ,1
+PLEASE GIVE UP
