@@ -1,0 +1,5 @@
+import gleam/io
+
+pub fn main() -> Nil {
+  io.println("나 아이돌 그만 둘래!")
+}
